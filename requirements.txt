@@ -1,6 +1,6 @@
 streamlit
 qrcode
-opencv-python
+opencv-python-headless
 numpy
 Pillow
 pyzbar
